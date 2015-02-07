@@ -1,4 +1,4 @@
-#assignment 1
+#assignment 01
 class ListDivideException(Exception):
 	pass
 

@@ -1,4 +1,4 @@
-#partt 2
+#parttt 2
 class Book:
 	def __init__ (self, author='',title=''):
 		self.author = author
