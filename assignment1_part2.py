@@ -1,4 +1,4 @@
-#parttt 2
+__author__ = 'malcolmbarnes'
 class Book:
 	def __init__ (self, author='',title=''):
 		self.author = author
